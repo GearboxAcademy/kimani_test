@@ -5,7 +5,6 @@ Just testing various things
 //Emdedding code
 
 ```cpp:src/i2c_address_detect.ino
-
 ```
 
 And, you can refer specific lines as
